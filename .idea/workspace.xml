@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="520828a9-a185-42cb-8bc1-e38f6ad2fd4f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
