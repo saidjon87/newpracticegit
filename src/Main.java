@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world BabaJun!");
         System.out.println("Hello world Mamajun!");
         System.out.println("Hello world Bratjun!");
+        System.out.println("Hello world Sista!");
     }
 }
